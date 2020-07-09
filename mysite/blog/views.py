@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Task
 from .forms import TaskForm
 
@@ -10,8 +10,17 @@ def about(request):
     return render(request, 'blog/about.html')
 
 def create(request):
+    error = ''
+    if request.method == 'POST':
+        form = TaskForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('index')
+        else:
+            error = 'Form is invalid'
     form = TaskForm()
     context = {
-        'form': form
+        'form': form,
+        'error': error,
     }
     return render(request, 'blog/create.html', context)
