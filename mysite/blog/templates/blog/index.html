@@ -2,6 +2,15 @@
 
 {% block title %}Main page{% endblock %}
 {% block content %}
-<h1>Main page</h1>
-<p>some text</p>
+    <h1>Main page</h1>
+    {% if tasks %}
+        {% for task in tasks %}
+            <div class="alert alert-success mt-2">
+                <h3>{{task.title}}</h3>
+                <p>{{task.task}}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <h4>We do not have tasks</h4>
+    {% endif %}
 {% endblock %}
