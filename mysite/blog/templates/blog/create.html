@@ -4,8 +4,9 @@
 {% block content %}
     <h1>Create task</h1>
     <form method="POST">
-        <input type="text" placeholder="Enter name" class="form-control"><br>
-        <textarea class="form-control" placeholder="Enter description"></textarea><br>
+        {% csrf_token %}
+        {{form.title}}<br>
+        {{form.task}}<br>
         <button type="submit" class="btn btn-success">Add</button>
     </form>
 {% endblock %}

@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from .models import Task
+from .forms import TaskForm
 
 def index(request):
     tasks = Task.objects.all().order_by('-id')
@@ -9,4 +10,8 @@ def about(request):
     return render(request, 'blog/about.html')
 
 def create(request):
-    return render(request, 'blog/create.html')
+    form = TaskForm()
+    context = {
+        'form': form
+    }
+    return render(request, 'blog/create.html', context)
