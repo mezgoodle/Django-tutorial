@@ -6,3 +6,8 @@
 Here there are instructions how to make your Django application
 
 I created pages on [wiki](https://github.com/mezgoodle/Django-tutorial/wiki) section.
+
+Django used in:
+- [django-weather](https://github.com/mezgoodle/django-weather)
+- [MezBlog](https://github.com/mezgoodle/MezBlog)
+- [Todo-API](https://github.com/mezgoodle/Todo-API)
