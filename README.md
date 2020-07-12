@@ -11,3 +11,6 @@ Django used in:
 - [django-weather](https://github.com/mezgoodle/django-weather)
 - [MezBlog](https://github.com/mezgoodle/MezBlog)
 - [Todo-API](https://github.com/mezgoodle/Todo-API)
+
+Articles and literature:
+- [Habr "Minimum of Django"](https://habr.com/ru/post/508100/)
