@@ -13,3 +13,4 @@ Articles and literature:
 - [Habr "Minimum of Django"](https://habr.com/ru/post/508100/)
 - [Deploy Django, MDN](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django/%D0%A0%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 - [Official documentation](https://docs.djangoproject.com/en/3.0/)
+- Traversy Crash course: [repository](https://github.com/bradtraversy/pollster_django_crash), [video](https://www.youtube.com/watch?v=e1IyzVyrLSU)
