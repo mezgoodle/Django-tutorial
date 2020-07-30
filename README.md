@@ -8,7 +8,7 @@ Django used in:
 - [django-weather](https://github.com/mezgoodle/django-weather)
 - [MezBlog](https://github.com/mezgoodle/MezBlog)
 - [Todo-API](https://github.com/mezgoodle/Todo-API)
-- [Django shop](https://github.com/mezgoodle/django-shop)
+- [django-shop](https://github.com/mezgoodle/django-shop)
 - [django-site](https://github.com/mezgoodle/django-site)
 
 Articles and literature:
