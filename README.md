@@ -17,5 +17,6 @@ Articles and literature:
 - [Official documentation](https://docs.djangoproject.com/en/3.0/)
 - Traversy Crash course: [repository](https://github.com/bradtraversy/pollster_django_crash), [video](https://www.youtube.com/watch?v=e1IyzVyrLSU)
 - Book [Django 3 By example](https://mega.nz/file/yCY1SKCb#A4avZeWaKnu5KZGSLJzCdOMLTWtYynwtOLTZbfOP-hE)
+- Book [Build a Website with Django 3](https://mega.nz/file/Tbxx0BIY#8WXa6o2_HULvjWidyxz2N7dXkBljdeG0zYM9dEBYsAA)
 - [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [djangocentral.com](https://djangocentral.com/)
