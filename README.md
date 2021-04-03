@@ -21,3 +21,5 @@ Articles, videos and literature:
 - [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [djangocentral.com](https://djangocentral.com/)
 - [itProger Django 3 playlist](https://www.youtube.com/playlist?list=PLDyJYA6aTY1nZ9fSGcsK4wqeu-xaJksQQ)
+- [Шпаргалка по Python для Django](https://tprg.ru/F7e4)
+- [Масштабируемый Продакшн-реди Телеграм бот на Django](https://habr.com/ru/post/547488/)
