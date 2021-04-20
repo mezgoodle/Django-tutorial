@@ -10,6 +10,7 @@ Django used in:
 - [Todo-API](https://github.com/mezgoodle/Todo-API)
 - [django-shop](https://github.com/mezgoodle/django-shop)
 - [django-site](https://github.com/mezgoodle/django-site)
+- [django-ecommerce](https://github.com/mezgoodle/django_ecommerce)
 
 Articles, videos and literature:
 - [Habr "Minimum of Django"](https://habr.com/ru/post/508100/)
