@@ -11,6 +11,7 @@ Django used in:
 - [django-shop](https://github.com/mezgoodle/django-shop)
 - [django-site](https://github.com/mezgoodle/django-site)
 - [django-ecommerce](https://github.com/mezgoodle/django_ecommerce)
+- [django-vue-blog](https://github.com/mezgoodle/django-vue-blog)
 
 Articles, videos and literature:
 - [Habr "Minimum of Django"](https://habr.com/ru/post/508100/)
@@ -24,3 +25,4 @@ Articles, videos and literature:
 - [itProger Django 3 playlist](https://www.youtube.com/playlist?list=PLDyJYA6aTY1nZ9fSGcsK4wqeu-xaJksQQ)
 - [Шпаргалка по Python для Django](https://tprg.ru/F7e4)
 - [Масштабируемый Продакшн-реди Телеграм бот на Django](https://habr.com/ru/post/547488/)
+- [Build a Blog Using Django, Vue, and GraphQL](https://realpython.com/python-django-blog/#demo-a-django-blog-admin-a-graphql-api-and-a-vue-front-end)
